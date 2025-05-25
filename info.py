@@ -1,5 +1,0 @@
-sender_email = "22103020@mail.jiit.ac.in"
-sender_password = "sohil1234"
-recipient_email = "22103019@mail.jiit.ac.in"
-subject = "Test Email"
-body = "This is a test email sent from Python."
